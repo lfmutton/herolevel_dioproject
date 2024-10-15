@@ -6,7 +6,7 @@ Download the files of my paste or do a fork, whatever you feel like it
 
 Go to your paste that you download it
 
-Put this command in your cmd
+Put this command in your cmd where your paste is located
 ```
 node <file name>
 ```
