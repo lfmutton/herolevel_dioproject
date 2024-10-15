@@ -5,6 +5,7 @@ Doing one little project of a bootcamp that I joined.
 Download the files of my paste or do a fork, whatever you feel like it
 
 Go to your paste that you download it
+
 Put this command in your cmd
 ```
 node <file name>
